@@ -1,6 +1,6 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Senritsu420" />
+  <img src="https://komarev.com/ghpvc/?username=Kubbo0308" />
 </div>
 
 
@@ -27,13 +27,13 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Senritsu420&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senritsu420&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kubbo0308&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubbo0308&theme=vue-dark&layout=compact" />
 </div>
 
 
 <!--
-**Senritsu420/Senritsu420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kubbo0308/Kubbo0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
