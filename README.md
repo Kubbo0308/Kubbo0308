@@ -34,6 +34,10 @@
 ## 👨‍🏫 Articles
 These are some artilces I've written recently!
 <!-- BLOG-POST-LIST:START -->
+- [エンジニアの保守業務はなぜ評価されにくいのか🤔](https://qiita.com/Senritsu420/items/0ca7161d02ca3385c614)
+- [TypeScript5.5が正式リリースされたのでtype predicateの型推論をまとめてみる](https://qiita.com/Senritsu420/items/f8ce133795c78e2392fc)
+- [オンラインコミュニケーションの難しさ](https://qiita.com/Senritsu420/items/e131812eb628f54db29e)
+- [Markdown AIはWebサイトを気軽に作りたい方に向いてそう](https://qiita.com/Senritsu420/items/05b76ea5f267b6fe978c)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
