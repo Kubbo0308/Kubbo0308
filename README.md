@@ -34,10 +34,10 @@
 ## 👨‍🏫 Articles
 These are some artilces I've written recently!
 <!-- BLOG-POST-LIST:START -->
+- [Chakra UIのV3へメジャーアップデートする際の変更点](https://qiita.com/Senritsu420/items/fc00283f237e858c917e)
 - [AWSをローカル環境で試せるLocalStackの環境構築](https://qiita.com/Senritsu420/items/6aa62b05ffe6e29b3ac5)
 - [エンジニアの保守業務はなぜ評価されにくいのか🤔](https://qiita.com/Senritsu420/items/0ca7161d02ca3385c614)
 - [TypeScript5.5が正式リリースされたのでtype predicateの型推論をまとめてみる](https://qiita.com/Senritsu420/items/f8ce133795c78e2392fc)
-- [オンラインコミュニケーションの難しさ](https://qiita.com/Senritsu420/items/e131812eb628f54db29e)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
