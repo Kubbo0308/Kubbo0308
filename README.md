@@ -34,10 +34,10 @@
 ## 👨‍🏫 Articles
 These are some artilces I've written recently!
 <!-- BLOG-POST-LIST:START -->
+- [AxiosのInterceptorsを利用してAPIコール時のCookieセットを共通化する](https://qiita.com/Senritsu420/items/c5e5aa590c1afebd06fe)
 - [ISUCON14参加してみたら、学びにもなるし楽しかった](https://qiita.com/Senritsu420/items/44714edc7609251a8932)
 - [Chakra UIのV3へメジャーアップデートする際の変更点](https://qiita.com/Senritsu420/items/fc00283f237e858c917e)
 - [AWSをローカル環境で試せるLocalStackの環境構築](https://qiita.com/Senritsu420/items/6aa62b05ffe6e29b3ac5)
-- [エンジニアの保守業務はなぜ評価されにくいのか🤔](https://qiita.com/Senritsu420/items/0ca7161d02ca3385c614)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
