@@ -1,8 +1,12 @@
 const { createClient } = require('@supabase/supabase-js');
 
-// ローカル実行時のみ.envファイルを読み込み
-if (process.env.NODE_ENV !== 'production') {
-  require('dotenv').config();
+// ローカル実行時のみ.envファイルを読み込み（GitHub Actions実行時は回避）
+if (!process.env.GITHUB_ACTIONS && process.env.NODE_ENV !== 'production') {
+  try {
+    require('dotenv').config();
+  } catch (error) {
+    console.log('📝 dotenvは使用できませんが、環境変数は直接設定されています');
+  }
 }
 
 // 環境変数
