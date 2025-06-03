@@ -1,0 +1,63 @@
+name: Update Kuboyage Blog Articles
+
+# 定期実行（毎日午前9時 UTC = 日本時間午後6時）と手動実行
+on:
+  schedule:
+    - cron: "0 9 * * *" # 毎日午前9時 UTC
+  workflow_dispatch: # 手動実行
+    inputs:
+      reason:
+        description: "Manual update reason"
+        required: false
+        default: "Manual blog update"
+
+env:
+  NODE_VERSION: "18.x"
+
+permissions:
+  contents: write # READMEファイル更新のため
+
+jobs:
+  update-readme:
+    name: 📝 Update README with latest blog posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: "npm"
+
+      - name: 📦 Install dependencies
+        run: |
+          npm install @supabase/supabase-js @octokit/rest
+
+      - name: 🚀 Update README with latest blog posts
+        env:
+          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+          VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          node scripts/update-readme-blog.cjs
+
+      - name: 📊 Upload logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: update-logs-${{ github.run_id }}
+          path: |
+            /home/runner/.npm/_logs/
+          retention-days: 7
+        continue-on-error: true
+
+      - name: 💬 Log completion
+        run: |
+          echo "✅ Kuboyage記事の更新処理が完了しました"
+          echo "📅 実行日時: $(date)"
+          echo "🔄 実行理由: ${{ github.event.inputs.reason || 'Scheduled update' }}"
