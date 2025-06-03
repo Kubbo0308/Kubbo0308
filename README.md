@@ -33,6 +33,14 @@
 
 ## 👨‍🏫 Articles
 These are some artilces I've written recently!
+
+### MyBlog🩵
+- [New Balanceの993が欲しすぎる！❤️‍🔥](https://kuboyage.dev/blog/new-balance993)
+- [Next.js Page RouterとApp Router - アーキテクチャ思想の違いによる選定基準🚀](https://kuboyage.dev/blog/nextjs-page-router-app-router)
+- [Kuboyageについて](https://kuboyage.dev/blog/what-is-kuboyage)
+- [Markdownで美しい技術記事を書く方法](https://kuboyage.dev/blog/beautiful-markdown-guide)
+
+### Qiita🟢
 <!-- BLOG-POST-LIST:START -->
 - [React + Nginx構成のコンテナをTerraformとGitHub Actionsを用いてCloud Runにデプロイする](https://qiita.com/Senritsu420/items/77fa8860591f88bdcee2)
 - [新卒2年目が転職ドラフトで年収ブチ上げた話](https://qiita.com/Senritsu420/items/61dcce69f0b23db6983e)
