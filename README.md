@@ -35,10 +35,10 @@
 These are some artilces I've written recently!
 
 ### MyBlog🩵
+- [GitHub Actions で sitemap.xml を完全自動化！ブログサイトの SEO を劇的改善した話 🗺️✨](https://kuboyage.dev/blog/github-actions-sitemapxml-seo)
 - [GitHub プロフィール README を自動更新！Supabase + GitHub Actions でブログの RSS 風最新記事配信システムを構築 🚀](https://kuboyage.dev/blog/github-readme-supabase-github-actions-rss)
 - [New Balanceの993が欲しすぎる！❤️‍🔥](https://kuboyage.dev/blog/new-balance993)
 - [ Next.js Page RouterとApp Router - アーキテクチャ思想の違いによる選定基準🚀](https://kuboyage.dev/blog/nextjs-page-router-app-router)
-- [Kuboyageについて](https://kuboyage.dev/blog/what-is-kuboyage)
 
 ### Qiita🟢
 <!-- BLOG-POST-LIST:START -->
