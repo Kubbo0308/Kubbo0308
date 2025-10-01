@@ -35,10 +35,10 @@
 These are some artilces I've written recently!
 
 ### MyBlog🩵
+- [エラーもドメインの一部 - Go言語における戦略的エラーハンドリング設計 🎯](https://kuboyage.dev/blog/error-handling-as-domain-for-golang)
 - [App Storeアプリ公開ガイド - ビルドから審査通過まで](https://kuboyage.dev/blog/app-store-publish)
 - [WezTermとNeovimで構築するターミナルで快適な開発環境設定](https://kuboyage.dev/blog/wezterm-and-neovim-settings)
 - [自己流CLAUDE CODEの設定やカスタムコマンド！❤️‍🔥](https://kuboyage.dev/blog/claude-code-settings-and-custom-commands)
-- [GitHub Actions で sitemap.xml を完全自動化！ブログサイトの SEO を劇的改善した話 🗺️✨](https://kuboyage.dev/blog/github-actions-sitemapxml-seo)
 
 ### Qiita🟢
 <!-- BLOG-POST-LIST:START -->
