@@ -35,10 +35,10 @@
 These are some artilces I've written recently!
 
 ### MyBlog🩵
+- [AI News 自動配信システムの技術設計とDifyワークフロー完全解説 🤖✨](https://kuboyage.dev/blog/ai-news-generator-by-dify)
 - [Feature Flagで実現する柔軟なリリース戦略とOpenFeatureを活用した導入コスト削減 🚀](https://kuboyage.dev/blog/feature-flag-openfeature)
 - [エラーもドメインの一部 - Go言語における戦略的エラーハンドリング設計 🎯](https://kuboyage.dev/blog/error-handling-as-domain-for-golang)
 - [App Storeアプリ公開ガイド - ビルドから審査通過まで](https://kuboyage.dev/blog/app-store-publish)
-- [WezTermとNeovimで構築するターミナルで快適な開発環境設定](https://kuboyage.dev/blog/wezterm-and-neovim-settings)
 
 ### Qiita🟢
 <!-- BLOG-POST-LIST:START -->
