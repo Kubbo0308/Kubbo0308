@@ -43,9 +43,9 @@ These are some artilces I've written recently!
 ### Qiita🟢
 <!-- BLOG-POST-LIST:START -->
 - [React + Nginx構成のコンテナをTerraformとGitHub Actionsを用いてCloud Runにデプロイする](https://qiita.com/Senritsu420/items/77fa8860591f88bdcee2)
-- [新卒2年目が転職ドラフトで年収ブチ上げた話](https://qiita.com/Senritsu420/items/61dcce69f0b23db6983e)
 - [AxiosのInterceptorsを利用してAPIコール時のCookieセットを共通化する](https://qiita.com/Senritsu420/items/c5e5aa590c1afebd06fe)
 - [ISUCON14参加してみたら、学びにもなるし楽しかった](https://qiita.com/Senritsu420/items/44714edc7609251a8932)
+- [Chakra UIのV3へメジャーアップデートする際の変更点](https://qiita.com/Senritsu420/items/fc00283f237e858c917e)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
