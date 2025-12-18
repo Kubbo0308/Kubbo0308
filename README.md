@@ -9,9 +9,10 @@
 
 - 🧑‍💻 I'm a frontend and backend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me:
-  - [Twitter - @senritsu_3150](https://twitter.com/senritsu_3150)
-  - [Qiita - @Senritsu420](https://qiita.com/Senritsu420)
+
+This is my blog.
+https://kuboyage.dev
+
 <br>
 
 
@@ -34,7 +35,7 @@
 ## 👨‍🏫 Articles
 These are some artilces I've written recently!
 
-### MyBlog🩵
+### MyBlog🚢
 - [Claude CodeのPlugin公開しました！](https://kuboyage.dev/blog/claude-code-plugin)
 - [AI News 自動配信システムの技術設計とDifyワークフロー完全解説 🤖✨](https://kuboyage.dev/blog/ai-news-generator-by-dify)
 - [Feature Flagで実現する柔軟なリリース戦略とOpenFeatureを活用した導入コスト削減 🚀](https://kuboyage.dev/blog/feature-flag-openfeature)
