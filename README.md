@@ -41,14 +41,6 @@ These are some artilces I've written recently!
 - [Feature Flagで実現する柔軟なリリース戦略とOpenFeatureを活用した導入コスト削減 🚀](https://kuboyage.dev/blog/feature-flag-openfeature)
 - [エラーもドメインの一部 - Go言語における戦略的エラーハンドリング設計 🎯](https://kuboyage.dev/blog/error-handling-as-domain-for-golang)
 
-### Qiita🟢
-<!-- BLOG-POST-LIST:START -->
-- [React + Nginx構成のコンテナをTerraformとGitHub Actionsを用いてCloud Runにデプロイする](https://qiita.com/Senritsu420/items/77fa8860591f88bdcee2)
-- [AxiosのInterceptorsを利用してAPIコール時のCookieセットを共通化する](https://qiita.com/Senritsu420/items/c5e5aa590c1afebd06fe)
-- [ISUCON14参加してみたら、学びにもなるし楽しかった](https://qiita.com/Senritsu420/items/44714edc7609251a8932)
-- [Chakra UIのV3へメジャーアップデートする際の変更点](https://qiita.com/Senritsu420/items/fc00283f237e858c917e)
-<!-- BLOG-POST-LIST:END -->
-
 <!--
 **Kubbo0308/Kubbo0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
