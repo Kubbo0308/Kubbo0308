@@ -4,14 +4,12 @@ on:
         - cron: '0 9 * * *'
     workflow_dispatch:
 
-jobs: 
-    update-readme-with-blog: 
+jobs:
+    update-readme-with-blog:
         name: Update this repo's README with latest artilces
         runs-on: ubuntu-latest
-        steps: 
+        steps:
             - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "5"
-                feed_list: "https://qiita.com/Senritsu420/feed"
+            - name: Skip - Qiita feed removed
+              run: echo "Qiita feed has been removed"
 

@@ -71,30 +71,26 @@ async function updateReadme(posts) {
 
     const currentContent = Buffer.from(fileData.content, 'base64').toString('utf-8');
     
-    // MyBlog部分の開始と終了マーカー
+    // MyBlog部分の開始マーカー
     const startMarker = '### MyBlog🩵';
-    const endMarker = '### Qiita🟢';
-    
+
     const startIndex = currentContent.indexOf(startMarker);
-    const endIndex = currentContent.indexOf(endMarker);
-    
-    if (startIndex === -1 || endIndex === -1) {
+
+    if (startIndex === -1) {
       throw new Error('READMEのMyBlogセクションが見つかりません');
     }
 
     // 新しい記事リストを生成
-    const blogList = posts.map(post => 
+    const blogList = posts.map(post =>
       `- [${post.title}](${post.url})`
     ).join('\n');
 
-    // README更新
+    // README更新（MyBlogセクションより前の部分 + 新しいMyBlogセクション）
     const beforeMyBlog = currentContent.substring(0, startIndex);
-    const afterQiita = currentContent.substring(endIndex);
-    
+
     const newContent = `${beforeMyBlog}${startMarker}
 ${blogList}
-
-${afterQiita}`;
+`;
 
     // READMEを更新
     console.log('📝 READMEを更新中...');
