@@ -21,11 +21,9 @@ https://kuboyage.dev
 ## 🏃‍♀️ Activities
 
 <div align="left">
-  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kubbo0308&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kubbo0308&theme=vue-dark&layout=compact"/>
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubbo0308&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=MemoProgram"/>
 </div>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kubbo0308&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 ---
 
