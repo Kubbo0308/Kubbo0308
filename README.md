@@ -1,38 +1,42 @@
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Kubbo0308" />
-</div>
+<div align="center">
 
-
-<!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
+[![Profile Views](https://komarev.com/ghpvc/?username=Kubbo0308&style=for-the-badge&color=blueviolet)](https://github.com/Kubbo0308)
+
+</div>
+
 - 🧑‍💻 I'm a frontend and backend engineer.
-- 🌱 I’m currently learning go!
+- 🌱 I'm currently learning go!
 
 This is my blog.
 https://kuboyage.dev
 
-<br>
+---
 
-
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
+
+<div align="center">
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,react,next,nodejs,go,python,docker,githubactions,aws,mysql,postgresql" />
-<br>
-
-
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kubbo0308&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubbo0308&theme=vue-dark&layout=compact" />
 </div>
 
+---
+
+## 🏃‍♀️ Activities
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kubbo0308&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubbo0308&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kubbo0308&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
 ## 👨‍🏫 Articles
+
 These are some artilces I've written recently!
 
 ### MyBlog🚢
@@ -40,18 +44,3 @@ These are some artilces I've written recently!
 - [AI News 自動配信システムの技術設計とDifyワークフロー完全解説 🤖✨](https://kuboyage.dev/blog/ai-news-generator-by-dify)
 - [Feature Flagで実現する柔軟なリリース戦略とOpenFeatureを活用した導入コスト削減 🚀](https://kuboyage.dev/blog/feature-flag-openfeature)
 - [エラーもドメインの一部 - Go言語における戦略的エラーハンドリング設計 🎯](https://kuboyage.dev/blog/error-handling-as-domain-for-golang)
-
-<!--
-**Kubbo0308/Kubbo0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
