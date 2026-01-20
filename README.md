@@ -1,10 +1,8 @@
-<div align="center">
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Kubbo0308" />
+</div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Kubbo0308&style=for-the-badge&color=blueviolet)](https://github.com/Kubbo0308)
-
-</div>
 
 - 🧑‍💻 I'm a frontend and backend engineer.
 - 🌱 I'm currently learning go!
@@ -16,22 +14,18 @@ https://kuboyage.dev
 
 ## 🌱 Skills
 
-<div align="center">
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,react,next,nodejs,go,python,docker,githubactions,aws,mysql,postgresql" />
-</div>
 
 ---
 
 ## 🏃‍♀️ Activities
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kubbo0308&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubbo0308&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<div align="left">
+  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kubbo0308&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubbo0308&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=MemoProgram"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kubbo0308&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kubbo0308&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 ---
 
